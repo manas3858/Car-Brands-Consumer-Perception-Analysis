@@ -1,5 +1,5 @@
 # Car Brands Consumer Perception Analysis
-
+![](https://4.bp.blogspot.com/-YA0bdWXYwfk/V8-D-6PtpyI/AAAAAAAAAIs/QwXYOgckevkHfK2xOfFha3CijyQqUViOQCLcB/s1600/GfK-Blog-Automotive-UX-4-considerations-for-innovating-the-automotive-industry-Blog.jpg)
 The aim of this project is to analyze customer perception about leading US car brands.
 
 ### Approach
