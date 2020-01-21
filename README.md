@@ -1,5 +1,8 @@
+# Car Brands Consumer Perception Analysis
+
 The aim of this project is to analyze customer perception about leading US car brands.
 
+### Approach
 This project followed the following approach:
   1. Scraped ~6k reviews using Selenium to fetch messages posted in Edmunds.com discussion forums
   2. Clean the data using NLTK
@@ -8,7 +11,8 @@ This project followed the following approach:
   5. Understand the key attributes of top brands
   6. Find the most aspirational brands
   7. Give recommendation to Brand Managers and Marketing Teams
-  
+
+### Insights
 Based on the analysis, here are some of the key insights:
 
 Acura passes off among the public as a forgotten luxury car, with higher quality and associated highest with reliability. However, the lift calculations show that Acura drops off at a bad rate here. The lift rate shows that Acura fails here to be qualified as a good performer. Close to the other luxury brands, that is, Mercedes and Infiniti in the MDS chart, the differentiating factor is Acura’s age-old branding as a reliable machine. If the brand captures this back and gets rid of the growing concern over Acura’s performance and reliability, the brand can reinvent itself and get back into the race.
